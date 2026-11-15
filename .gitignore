@@ -1,0 +1,21 @@
+
+# Executáveis
+*.out
+*.exe
+
+# Arquivos compilados
+*.o
+*.a
+*.so
+
+# CLion
+.idea/
+cmake-build-*/
+
+# Arquivos temporários
+*.swp
+*.swo
+*~
+
+# Arquivos de sistema
+.DS_Store
