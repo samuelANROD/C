@@ -44,10 +44,10 @@ Cada pasta representa **um tema**, com exemplos e exercícios em arquivos `.c`.
 ## Roadmap de estudos
 
 ### Fundamentos
-- [ ] Estrutura básica de um programa em C
-- [ ] Variáveis e tipos de dados
+- [x] Estrutura básica de um programa em C
+- [x] Variáveis e tipos de dados
 - [ ] Constantes
-- [ ] Operadores aritméticos e lógicos
+- [x] Operadores aritméticos e lógicos
 - [ ] Entrada e saída (`printf`, `scanf`)
 - [ ] Condicionais (`if`, `else`, `switch`)
 - [ ] Laços (`for`, `while`, `do while`)
