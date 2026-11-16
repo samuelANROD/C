@@ -6,3 +6,6 @@ set(CMAKE_C_STANDARD 23)
 
 add_executable(Hello_World Hello_World/main.c)
 
+add_executable(arithmetic sintax_and_basic/arithmetic.c)
+add_executable(exemples sintax_and_basic/exemples.c)
+add_executable(variables sintax_and_basic/variables.c)
