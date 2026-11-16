@@ -78,8 +78,8 @@ Cada pasta representa **um tema**, com exemplos e exercícios em arquivos `.c`.
 - [ ] GCC
 - [ ] GDB (depuração)
 - [ ] Make
-- [ ] CMake
-- [ ] Git e GitHub
+- [x] CMake
+- [x] Git e GitHub
 - [ ] Valgrind
 
 ### Projetos
