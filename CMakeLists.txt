@@ -12,3 +12,7 @@ add_executable(variables sintax_and_basic/variables.c)
 add_executable(constants sintax_and_basic/constants.c)
 add_executable(conversion sintax_and_basic/conversion.c)
 add_executable(operators sintax_and_basic/operators.c)
+
+add_executable(if_else control_flow/if_else.c)
+add_executable(booleanos control_flow/booleanos.c)
+add_executable(switch control_flow/switch.c)
