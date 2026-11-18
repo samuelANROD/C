@@ -46,9 +46,9 @@ Cada pasta representa **um tema**, com exemplos e exercícios em arquivos `.c`.
 ### Fundamentos
 - [x] Estrutura básica de um programa em C
 - [x] Variáveis e tipos de dados
-- [ ] Constantes
+- [x] Constantes
 - [x] Operadores aritméticos e lógicos
-- [ ] Entrada e saída (`printf`, `scanf`)
+- [x] Entrada e saída (`printf`, `scanf`)
 - [ ] Condicionais (`if`, `else`, `switch`)
 - [ ] Laços (`for`, `while`, `do while`)
 - [ ] Funções
@@ -75,9 +75,9 @@ Cada pasta representa **um tema**, com exemplos e exercícios em arquivos `.c`.
 - [ ] Programação de baixo nível
 
 ### Ferramentas
-- [ ] GCC
-- [ ] GDB (depuração)
-- [ ] Make
+- [x] GCC
+- [x] GDB (depuração)
+- [x] Make
 - [x] CMake
 - [x] Git e GitHub
 - [ ] Valgrind
