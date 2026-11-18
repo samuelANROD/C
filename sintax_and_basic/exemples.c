@@ -19,4 +19,6 @@ int main(void) {
     printf("cor favorita: %s\n", cor);
     printf("idade: %d\n", idade);
     printf("altura: %.2f\n", altura);
+
+    return 0;
 }

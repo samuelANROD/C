@@ -20,4 +20,6 @@ int main() {
     // ++ incrementar
     // -- decrementar
     // elevado só fazendo x * x ou <math.h>
+
+	return 0;
 }

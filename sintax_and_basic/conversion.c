@@ -20,4 +20,6 @@ int main(void) {
 
 	printf("%.1f\n", resultado_01);
 	printf("%.1f\n", resultado_02);
+
+	return 0;
 }
