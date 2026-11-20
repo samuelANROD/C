@@ -16,3 +16,8 @@ add_executable(operators sintax_and_basic/operators.c)
 add_executable(if_else control_flow/if_else.c)
 add_executable(booleanos control_flow/booleanos.c)
 add_executable(switch control_flow/switch.c)
+
+add_executable(while loops/while.c)
+add_executable(for loops/for.c)
+add_executable(do_while loops/do_while.c)
+add_executable(break_continue loops/break_continue.c)
