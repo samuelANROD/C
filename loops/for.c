@@ -8,6 +8,8 @@ int main (void) {
         printf("%d\n", i);
     }
 
+    printf("----------------------------------\n");
+
     for (int contagem = 3; contagem > 0; contagem--) {
         printf("d%\n", contagem);
     }

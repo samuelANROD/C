@@ -12,6 +12,8 @@ int main(void) {
      i++;
     } while (i < 5);
 
+    printf("----------------------------------------\n");
+
     // do while simples de contagem --
     do {
         printf("%d\n", contador);
