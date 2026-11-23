@@ -21,3 +21,8 @@ add_executable(while loops/while.c)
 add_executable(for loops/for.c)
 add_executable(do_while loops/do_while.c)
 add_executable(break_continue loops/break_continue.c)
+
+add_executable(array arrays/array.c)
+add_executable(array_loop arrays/array_loop.c)
+add_executable(mult_dim arrays/mult_dim.c)
+
