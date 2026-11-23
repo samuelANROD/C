@@ -49,11 +49,11 @@ Cada pasta representa **um tema**, com exemplos e exercícios em arquivos `.c`.
 - [x] Constantes
 - [x] Operadores aritméticos e lógicos
 - [x] Entrada e saída (`printf`, `scanf`)
-- [ ] Condicionais (`if`, `else`, `switch`)
-- [ ] Laços (`for`, `while`, `do while`)
+- [x] Condicionais (`if`, `else`, `switch`)
+- [x] Laços (`for`, `while`, `do while`)
 - [ ] Funções
-- [ ] Arrays
-- [ ] Strings
+- [x] Arrays
+- [x] Strings
 
 ### Intermediário
 - [ ] Ponteiros
