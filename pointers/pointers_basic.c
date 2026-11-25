@@ -1,4 +1,8 @@
 #include <stdio.h>
+//&	Obtém o endereço de memória de uma variável.
+//*	Acessa o valor armazenado no endereço (desreferencia)
+//& = onde está?
+//* = oq tem?
 
 //Um ponteiro é uma variável que armazena o endereço de memória de outra variável.
 
