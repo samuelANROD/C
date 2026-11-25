@@ -26,3 +26,7 @@ add_executable(array arrays/array.c)
 add_executable(array_loop arrays/array_loop.c)
 add_executable(mult_dim arrays/mult_dim.c)
 
+add_executable(pointers pointers/pointers_basic.c)
+add_executable(pointers_arrays pointers/pointers_arrays.c)
+add_executable(pointers_math pointers/pointers_math.c)
+add_executable(pointers_for_pointers pointers/pointers_for_pointers.c)
